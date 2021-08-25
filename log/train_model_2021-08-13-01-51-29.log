@@ -1,0 +1,154 @@
+Total params: 3,212,130
+Trainable params: 3,175,682
+Non-trainable params: 36,448
+__________________________________________________________________________________________________
+Epoch 1/30
+873/873 [==============================] - 429s 492ms/step - loss: 0.6185 - categorical_accuracy: 0.7303
+219/219 [==============================] - 31s 143ms/step - loss: 0.6323 - categorical_accuracy: 0.7280
+born_again_model train_loss: 0.6185     train_acc: 0.7303       val_loss: 0.6323        val_acc: 0.7280
+873/873 [==============================] - 1146s 1s/step - loss: 0.6106
+Epoch 2/30
+873/873 [==============================] - 424s 486ms/step - loss: 0.5879 - categorical_accuracy: 0.7302
+219/219 [==============================] - 31s 142ms/step - loss: 0.5953 - categorical_accuracy: 0.7282
+born_again_model train_loss: 0.5879     train_acc: 0.7302       val_loss: 0.5953        val_acc: 0.7282
+873/873 [==============================] - 1146s 1s/step - loss: 0.5980
+Epoch 3/30
+873/873 [==============================] - 442s 506ms/step - loss: 0.5855 - categorical_accuracy: 0.7303
+219/219 [==============================] - 31s 142ms/step - loss: 0.6018 - categorical_accuracy: 0.7282
+born_again_model train_loss: 0.5855     train_acc: 0.7303       val_loss: 0.6018        val_acc: 0.7282
+873/873 [==============================] - 1172s 1s/step - loss: 0.5917
+Epoch 4/30
+873/873 [==============================] - 429s 492ms/step - loss: 0.5708 - categorical_accuracy: 0.7303
+219/219 [==============================] - 33s 152ms/step - loss: 0.5901 - categorical_accuracy: 0.7284
+born_again_model train_loss: 0.5708     train_acc: 0.7303       val_loss: 0.5901        val_acc: 0.7284
+873/873 [==============================] - 1159s 1s/step - loss: 0.5870
+Epoch 5/30
+873/873 [==============================] - 424s 486ms/step - loss: 0.6040 - categorical_accuracy: 0.7303
+219/219 [==============================] - 31s 140ms/step - loss: 0.6207 - categorical_accuracy: 0.7281
+born_again_model train_loss: 0.6040     train_acc: 0.7303       val_loss: 0.6207        val_acc: 0.7281
+873/873 [==============================] - 1149s 1s/step - loss: 0.5831
+Epoch 6/30
+873/873 [==============================] - 423s 484ms/step - loss: 0.5555 - categorical_accuracy: 0.7313
+219/219 [==============================] - 31s 142ms/step - loss: 0.5695 - categorical_accuracy: 0.7285
+born_again_model train_loss: 0.5555     train_acc: 0.7313       val_loss: 0.5695        val_acc: 0.7285
+873/873 [==============================] - 1142s 1s/step - loss: 0.5792
+Epoch 7/30
+873/873 [==============================] - 421s 482ms/step - loss: 0.5438 - categorical_accuracy: 0.7327
+219/219 [==============================] - 31s 141ms/step - loss: 0.5634 - categorical_accuracy: 0.7289
+born_again_model train_loss: 0.5438     train_acc: 0.7327       val_loss: 0.5634        val_acc: 0.7289
+873/873 [==============================] - 1135s 1s/step - loss: 0.5762
+Epoch 8/30
+873/873 [==============================] - 422s 483ms/step - loss: 0.5585 - categorical_accuracy: 0.7323
+219/219 [==============================] - 30s 139ms/step - loss: 0.5789 - categorical_accuracy: 0.7293
+born_again_model train_loss: 0.5585     train_acc: 0.7323       val_loss: 0.5789        val_acc: 0.7293
+873/873 [==============================] - 1138s 1s/step - loss: 0.5741
+Epoch 9/30
+873/873 [==============================] - 422s 483ms/step - loss: 0.5817 - categorical_accuracy: 0.7306
+219/219 [==============================] - 30s 138ms/step - loss: 0.6144 - categorical_accuracy: 0.7283
+born_again_model train_loss: 0.5817     train_acc: 0.7306       val_loss: 0.6144        val_acc: 0.7283
+873/873 [==============================] - 1142s 1s/step - loss: 0.5717
+Epoch 10/30
+873/873 [==============================] - 423s 484ms/step - loss: 0.5342 - categorical_accuracy: 0.7354
+219/219 [==============================] - 30s 138ms/step - loss: 0.5553 - categorical_accuracy: 0.7302
+born_again_model train_loss: 0.5342     train_acc: 0.7354       val_loss: 0.5553        val_acc: 0.7302
+873/873 [==============================] - 1135s 1s/step - loss: 0.5685
+Epoch 11/30
+873/873 [==============================] - 422s 484ms/step - loss: 0.5570 - categorical_accuracy: 0.7312
+219/219 [==============================] - 30s 137ms/step - loss: 0.5934 - categorical_accuracy: 0.7291
+born_again_model train_loss: 0.5570     train_acc: 0.7312       val_loss: 0.5934        val_acc: 0.7291
+873/873 [==============================] - 1134s 1s/step - loss: 0.5657
+Epoch 12/30
+873/873 [==============================] - 421s 482ms/step - loss: 0.5316 - categorical_accuracy: 0.7356
+219/219 [==============================] - 30s 139ms/step - loss: 0.5492 - categorical_accuracy: 0.7300
+born_again_model train_loss: 0.5316     train_acc: 0.7356       val_loss: 0.5492        val_acc: 0.7300
+873/873 [==============================] - 1136s 1s/step - loss: 0.5640
+Epoch 13/30
+873/873 [==============================] - 426s 488ms/step - loss: 0.5257 - categorical_accuracy: 0.7392
+219/219 [==============================] - 30s 139ms/step - loss: 0.5520 - categorical_accuracy: 0.7297
+born_again_model train_loss: 0.5257     train_acc: 0.7392       val_loss: 0.5520        val_acc: 0.7297
+873/873 [==============================] - 1147s 1s/step - loss: 0.5624
+Epoch 14/30
+873/873 [==============================] - 425s 487ms/step - loss: 0.5357 - categorical_accuracy: 0.7353
+219/219 [==============================] - 31s 142ms/step - loss: 0.5625 - categorical_accuracy: 0.7298
+born_again_model train_loss: 0.5357     train_acc: 0.7353       val_loss: 0.5625        val_acc: 0.7298
+873/873 [==============================] - 1145s 1s/step - loss: 0.5596
+Epoch 15/30
+873/873 [==============================] - 477s 546ms/step - loss: 0.5635 - categorical_accuracy: 0.7317
+219/219 [==============================] - 30s 137ms/step - loss: 0.5948 - categorical_accuracy: 0.7288
+born_again_model train_loss: 0.5635     train_acc: 0.7317       val_loss: 0.5948        val_acc: 0.7288
+873/873 [==============================] - 1202s 1s/step - loss: 0.5585
+Epoch 16/30
+873/873 [==============================] - 435s 498ms/step - loss: 0.5239 - categorical_accuracy: 0.7396
+219/219 [==============================] - 33s 151ms/step - loss: 0.5580 - categorical_accuracy: 0.7295
+born_again_model train_loss: 0.5239     train_acc: 0.7396       val_loss: 0.5580        val_acc: 0.7295
+873/873 [==============================] - 1162s 1s/step - loss: 0.5561
+Epoch 17/30
+873/873 [==============================] - 754s 864ms/step - loss: 0.5116 - categorical_accuracy: 0.7467
+219/219 [==============================] - 51s 233ms/step - loss: 0.5514 - categorical_accuracy: 0.7290
+born_again_model train_loss: 0.5116     train_acc: 0.7467       val_loss: 0.5514        val_acc: 0.7290
+873/873 [==============================] - 1779s 2s/step - loss: 0.5525
+Epoch 18/30
+873/873 [==============================] - 746s 855ms/step - loss: 0.5218 - categorical_accuracy: 0.7411
+219/219 [==============================] - 51s 234ms/step - loss: 0.5670 - categorical_accuracy: 0.7294
+born_again_model train_loss: 0.5218     train_acc: 0.7411       val_loss: 0.5670        val_acc: 0.7294
+873/873 [==============================] - 1816s 2s/step - loss: 0.5501
+Epoch 19/30
+873/873 [==============================] - 751s 860ms/step - loss: 0.5157 - categorical_accuracy: 0.7436
+219/219 [==============================] - 51s 234ms/step - loss: 0.5655 - categorical_accuracy: 0.7320
+born_again_model train_loss: 0.5157     train_acc: 0.7436       val_loss: 0.5655        val_acc: 0.7320
+873/873 [==============================] - 1830s 2s/step - loss: 0.5487
+Epoch 20/30
+873/873 [==============================] - 744s 852ms/step - loss: 0.5096 - categorical_accuracy: 0.7468
+219/219 [==============================] - 60s 276ms/step - loss: 0.5594 - categorical_accuracy: 0.7307
+born_again_model train_loss: 0.5096     train_acc: 0.7468       val_loss: 0.5594        val_acc: 0.7307
+873/873 [==============================] - 1839s 2s/step - loss: 0.5463
+Epoch 21/30
+873/873 [==============================] - 750s 859ms/step - loss: 0.5045 - categorical_accuracy: 0.7501
+219/219 [==============================] - 51s 233ms/step - loss: 0.5509 - categorical_accuracy: 0.7305
+born_again_model train_loss: 0.5045     train_acc: 0.7501       val_loss: 0.5509        val_acc: 0.7305
+873/873 [==============================] - 1826s 2s/step - loss: 0.5430
+Epoch 22/30
+873/873 [==============================] - 531s 608ms/step - loss: 0.5203 - categorical_accuracy: 0.7407
+219/219 [==============================] - 30s 139ms/step - loss: 0.5869 - categorical_accuracy: 0.7296
+born_again_model train_loss: 0.5203     train_acc: 0.7407       val_loss: 0.5869        val_acc: 0.7296
+873/873 [==============================] - 1585s 2s/step - loss: 0.5408
+Epoch 23/30
+873/873 [==============================] - 421s 482ms/step - loss: 0.5012 - categorical_accuracy: 0.7528
+219/219 [==============================] - 30s 138ms/step - loss: 0.5694 - categorical_accuracy: 0.7299
+born_again_model train_loss: 0.5012     train_acc: 0.7528       val_loss: 0.5694        val_acc: 0.7299
+873/873 [==============================] - 1133s 1s/step - loss: 0.5393
+Epoch 24/30
+873/873 [==============================] - 421s 483ms/step - loss: 0.5028 - categorical_accuracy: 0.7503
+219/219 [==============================] - 30s 139ms/step - loss: 0.5700 - categorical_accuracy: 0.7292
+born_again_model train_loss: 0.5028     train_acc: 0.7503       val_loss: 0.5700        val_acc: 0.7292
+873/873 [==============================] - 1132s 1s/step - loss: 0.5355
+Epoch 25/30
+873/873 [==============================] - 422s 483ms/step - loss: 0.4991 - categorical_accuracy: 0.7521
+219/219 [==============================] - 30s 138ms/step - loss: 0.5655 - categorical_accuracy: 0.7294
+born_again_model train_loss: 0.4991     train_acc: 0.7521       val_loss: 0.5655        val_acc: 0.7294
+873/873 [==============================] - 1141s 1s/step - loss: 0.5332
+Epoch 26/30
+873/873 [==============================] - 420s 482ms/step - loss: 0.4962 - categorical_accuracy: 0.7537
+219/219 [==============================] - 31s 142ms/step - loss: 0.5887 - categorical_accuracy: 0.7299
+born_again_model train_loss: 0.4962     train_acc: 0.7537       val_loss: 0.5887        val_acc: 0.7299
+873/873 [==============================] - 1138s 1s/step - loss: 0.5298
+Epoch 27/30
+873/873 [==============================] - 420s 481ms/step - loss: 0.4807 - categorical_accuracy: 0.7691
+219/219 [==============================] - 31s 141ms/step - loss: 0.5524 - categorical_accuracy: 0.7212
+born_again_model train_loss: 0.4807     train_acc: 0.7691       val_loss: 0.5524        val_acc: 0.7212
+873/873 [==============================] - 1135s 1s/step - loss: 0.5276
+Epoch 28/30
+873/873 [==============================] - 419s 480ms/step - loss: 0.4768 - categorical_accuracy: 0.7681
+219/219 [==============================] - 30s 137ms/step - loss: 0.5719 - categorical_accuracy: 0.7242
+born_again_model train_loss: 0.4768     train_acc: 0.7681       val_loss: 0.5719        val_acc: 0.7242
+873/873 [==============================] - 1128s 1s/step - loss: 0.5233
+Epoch 29/30
+873/873 [==============================] - 419s 480ms/step - loss: 0.4721 - categorical_accuracy: 0.7698
+219/219 [==============================] - 30s 139ms/step - loss: 0.5672 - categorical_accuracy: 0.7287
+born_again_model train_loss: 0.4721     train_acc: 0.7698       val_loss: 0.5672        val_acc: 0.7287
+873/873 [==============================] - 1134s 1s/step - loss: 0.5191
+Epoch 30/30
+873/873 [==============================] - 421s 483ms/step - loss: 0.4835 - categorical_accuracy: 0.7632
+219/219 [==============================] - 30s 139ms/step - loss: 0.5837 - categorical_accuracy: 0.7322
+born_again_model train_loss: 0.4835     train_acc: 0.7632       val_loss: 0.5837        val_acc: 0.7322
+873/873 [==============================] - 1136s 1s/step - loss: 0.5186
